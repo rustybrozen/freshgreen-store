@@ -4,7 +4,7 @@
             <div class="bg-white border border-gray-200 rounded-lg p-6 shadow-sm text-center">
             
                 <h5 class="mt-4 text-lg font-semibold text-gray-900">Địa Chỉ Của Chúng Tôi</h5>
-                <p class="text-gray-600 mt-2">365 Phố Mini Market, Việt Nam</p>
+                <p class="text-gray-600 mt-2">Việt Nam</p>
             </div>
 
             <div class="bg-white border border-gray-200 rounded-lg p-6 shadow-sm text-center">
@@ -16,7 +16,7 @@
             <div class="bg-white border border-gray-200 rounded-lg p-6 shadow-sm text-center">
                 
                 <h5 class="mt-4 text-lg font-semibold text-gray-900">Email</h5>
-                <p class="text-gray-600 mt-2">contact@minimarket.com</p>
+                <p class="text-gray-600 mt-2">freshgreen@minimarket.com</p>
             </div>
         </div>
 

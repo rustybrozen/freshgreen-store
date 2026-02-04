@@ -9,7 +9,7 @@
                
                     <div class="space-y-4">
                         <div class="aspect-square bg-gray-100 rounded-lg overflow-hidden shadow-md">
-                            <img src="{{ asset('storage/'.$product->images->first()->image_path ?? 'default.jpg') }}"
+                            <img src="{{ asset('storage/' . ($product->images->first()?->image_path ?? 'default.jpg')) }}"
                              onerror="this.onerror=null;this.src='{{ asset('storage/' . 'default.jpg') }}';"
                                 alt="{{ $product->name }}"
                                 class="w-full h-full object-cover hover:scale-105 transition-transform duration-300"

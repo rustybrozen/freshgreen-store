@@ -26,10 +26,10 @@
         @endif
     </head>
     
-<body class="bg-white text-gray-800 min-h-dvh w-full flex flex-col">
+<body class="bg-white text-gray-800 min-h-dvh w-full flex flex-col overflow-x-hidden">
     <div class="bg-green-600 text-white text-sm py-1">
         <div class="container mx-auto text-center flex items-center">
-            <marquee>Chào mừng bạn đến với Mini Market, nơi cung cấp những thứ bạn cần.</marquee>
+            <marquee>Website Demo Kỹ Thuật — Không sử dụng cho giao dịch thật</marquee>
         </div>
     </div>
 

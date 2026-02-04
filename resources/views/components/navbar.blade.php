@@ -5,8 +5,8 @@
             <!-- Logo -->
             <a href="{{ route('home') }}"
                 class="text-white text-2xl font-bold flex items-center gap-2 hover:text-green-100 transition-colors">
-                <i class="fas fa-leaf text-green-200"></i>
-                <span>Fresh Mart</span>
+                {{-- <i class="fas fa-leaf text-green-200"></i> --}}
+                <span>FreshGreen</span>
             </a>
 
 

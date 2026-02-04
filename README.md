@@ -1,6 +1,5 @@
 # E-commerce Platform
 
-This project is a comprehensive e-commerce platform built with the Laravel framework. It provides a complete solution for online shopping, including a customer-facing storefront and an admin panel for managing products, orders, and users. The project is named `sieuthi-to-lv`, which translates to "Supermarket To LV", suggesting a focus on a wide range of products.
 
 ## Features
 
@@ -20,25 +19,12 @@ This project is a comprehensive e-commerce platform built with the Laravel frame
 - **User Management**: View and manage customer accounts.
 - **Admin Profile**: Manage admin user profiles.
 
-## Technologies Used
-
-- **Backend**: PHP 8.2, Laravel 12
-- **Frontend**: JavaScript, Tailwind CSS, Vite
-- **Database**: SQLite (for development), configurable for other databases like MySQL or PostgreSQL.
-- **Authentication**: Laravel's built-in authentication system.
-- **Routing**: Laravel's routing system for defining application endpoints.
-- **ORM**: Eloquent ORM for database interactions.
-- **Templating**: Blade templating engine for creating dynamic views.
 
 ## Setup and Installation
 
 To get the project up and running on your local machine, follow these steps:
 
 1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/sieuthi-to-lv.git
-   cd sieuthi-to-lv
-   ```
 
 2. **Install dependencies**:
    ```bash
@@ -81,34 +67,13 @@ To get the project up and running on your local machine, follow these steps:
    php artisan serve
    ```
 
-The application should now be running at `http://localhost:8000`.
 
 ## Usage
 
 - **Admin Panel**: Access the admin panel by navigating to `/admin`.
 - **Customer Storefront**: The main storefront is accessible at the root URL (`/`).
 
-## API Endpoints
 
-The application's routes are defined in `routes/web.php`. Key route groups include:
-- `/`: Customer-facing routes.
-- `/admin`: Admin panel routes.
-- `/cart`: Shopping cart operations.
-- `/checkout`: Checkout process.
-- `/order`: Order management.
-
-## Database Schema
-
-The database schema is defined by the migration files in the `database/migrations` directory. The main tables include:
-- `users`
-- `products`
-- `categories`
-- `orders`
-- `order_details`
-- `carts`
-- `cart_details`
-- `vouchers`
-- `product_reviews`
 
 
 ## License
