@@ -2,7 +2,7 @@
 
     <div
         class="bg-gradient-to-r from-green-600 to-green-700 text-white text-center py-16 px-4 mx-4 mt-8 rounded-3xl shadow-lg">
-        <h1 class="text-4xl md:text-5xl font-bold mb-4 text-green-100">Chào Mừng Bạn Tới Fresh Mart</h1>
+        <h1 class="text-4xl md:text-5xl font-bold mb-4 text-green-100">Chào Mừng Bạn Tới FreshGreen</h1>
         <p class="text-lg text-green-50">Hãy lựa chọn những thứ bạn cần trong đây.</p>
     </div>
 
