@@ -4,20 +4,20 @@
 ## Features
 
 ### Customer-Facing Features
-- **User Authentication**: Customers can register, log in, and manage their accounts.
-- **Product Catalog**: Browse products by category, search for specific items, and view detailed product pages.
-- **Shopping Cart**: Add products to a shopping cart, update quantities, and remove items.
-- **Checkout Process**: A seamless checkout process for placing orders.
-- **Order Tracking**: Customers can view their order history and track the status of their orders.
-- **User Profile**: Manage personal information, shipping addresses, and view order history.
+- **User Authentication**
+- **Product Catalog**
+- **Shopping Cart**
+- **Checkout Process**
+- **Order Tracking**
+- **User Profile**
 
 ### Admin Panel Features
-- **Dashboard**: An overview of key metrics such as sales, orders, and new customers.
-- **Product Management**: Add, edit, and delete products. Manage product images, stock levels, and pricing.
-- **Category Management**: Organize products into categories for easy navigation.
-- **Order Management**: View and manage customer orders, update order statuses, and handle payments.
-- **User Management**: View and manage customer accounts.
-- **Admin Profile**: Manage admin user profiles.
+- **Dashboard**
+- **Product Management**
+- **Category Management**
+- **Order Management**
+- **User Management**
+- **Admin Profile**
 
 
 ## Setup and Installation
